@@ -8,4 +8,3 @@ rasterio
 folium
 plotly
 streamlit_folium
-leafmap
